@@ -1,0 +1,35 @@
+{
+  "arraylist": {
+    "mark": 30,
+    "comment": "Program ran and output matched."
+  },
+  "strcmp": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "tokenize": {
+    "mark": 20,
+    "comment": "Program ran and output matched."
+  },
+  "dictionary": {
+    "mark": 20,
+    "comment": "Program ran and output matched."
+  },
+  "linecount": {
+    "mark": 20,
+    "comment": "Program ran and output matched."
+  },
+  "valgrindtokenize": {
+    "mark": 5,
+    "comment": "valgrind ran and found no leaks."
+  },
+  "valgrinddictionary": {
+    "mark": 5,
+    "comment": "valgrind ran and found no leaks."
+  },
+  "valgrindlinecount": {
+    "mark": 5,
+    "comment": "valgrind ran and found no leaks."
+  },
+  "userid": "GithubID:assignment-1-xiaozying"
+}
